@@ -1,0 +1,3 @@
+I am writing from Ruby
+With no line break.OK, that is it for now
+Adding from file.puts
